@@ -1,0 +1,73 @@
+::-moz-selection {
+background:#11508b;
+}
+::selection {
+background:#11508b;
+}
+
+.navbar .brand a:hover {
+	color:rgb(22, 47, 190);
+}
+
+
+
+ul#menu-main > li > a:hover {
+	color: rgb(22, 47, 190);
+}
+
+
+ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
+	color: rgb(22, 47, 190);
+}
+#header-wrapper h1 span {
+	color:rgb(22, 47, 190);
+}
+
+#header-wrapper input[type=submit] {
+	background: rgb(22, 47, 190) !important;
+}
+
+#theme-form input[type=submit] {
+	background: rgb(22, 47, 190) !important;
+}
+
+.btn.btn-theme {
+	background: #26c8aa !important;
+}
+
+/* blog */
+.home-post .post-meta {
+	background: rgb(22, 47, 190);
+}
+
+/* com */
+.tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
+	color: rgb(22, 47, 190);
+}
+.accordion .accordion-heading a.active {
+	color: rgb(22, 47, 190);
+}
+
+#tweet ul li a {
+	color: rgb(22, 47, 190);
+}
+
+
+/* works */
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+	background: rgb(22, 47, 190);
+	border-color: rgb(22, 47, 190);
+}
+
+.portfolio .portfolio-overlay {
+	background: rgb(22, 47, 190);
+}
+
+/* icon */
+i.icon-bgdark:hover {
+	background: #26c8aa;
+}
+
+i.icon-bgdark.active {
+	background: #11508b;
+}
